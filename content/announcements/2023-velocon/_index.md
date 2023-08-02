@@ -9,7 +9,7 @@ no_edit: true
 noTitle: true
 ---
 
-<img style="width: 100%" src="velocon_banner_2023.jpg">
+<img style="width: 100%" src="velocon_banner_2023.png">
 
 We are thrilled to announce that the 2nd annual VeloCON virtual summit will
 be held this September 13th, with times oriented to the continental
